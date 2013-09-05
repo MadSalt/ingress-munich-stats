@@ -1,0 +1,6 @@
+<?
+define("DBPASS","<password here>");
+define("DBUSER","ingress_stats");
+define("DB","ingress_stats");
+
+?>
