@@ -31,5 +31,6 @@ if ($stmt = $db->prepare($qGet)) {
 
 printf("\n\n\nSeite wird noch überarbeitet\nGeplant:\n- HTML\n- Farben\n- Sortierung\n- Summen");
 printf("\nPlugin gibts hier: http://ingress-munich.de/stats/plugin/send-ap-munich.user.js\n");
+printf("Erklärung im Post: https://plus.google.com/u/0/107503155199666511551/posts/8ZVRhYqDZvw \n");
 printf("Contact: https://plus.google.com/u/0/107503155199666511551/posts");
 ?>
